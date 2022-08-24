@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Muli',sans-serif;
+}
+
+
+.container{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 700px;
+    margin-top: 150px;
+    background-color: #F6F4F6;
+    display: flex;
+    max-height: 670px;
+    
+    
+}
+
+
+#imagem-fundo{
+    width: 1500;
+    height: 215px;
+    background: transparent url('reuniao.png') 0% 0% no-repeat padding-box;
+ }

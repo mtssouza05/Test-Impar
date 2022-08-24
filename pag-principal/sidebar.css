@@ -1,0 +1,27 @@
+::-webkit-scrollbar{
+    width: 1px;
+}
+
+#sidebar{
+    width: 1350px;
+    background: transparent linear-gradient(272deg, var(---cor-secundaria) 0%, var(---cor-primaria) 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(272deg, #AE276F 0%, #5F1478 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+   
+   
+}
+
+#logoimpar{
+    padding-top: 10px;
+    padding-left: 24px;
+    padding-bottom: 5px;
+    background: transparent url('fotos/img/logo-teste.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+
+ #imagem-fundo{
+    width: 1500;
+    height: 215px;
+    background: transparent url('fotos/reuniao.png') 0% 0% no-repeat padding-box;
+ }
